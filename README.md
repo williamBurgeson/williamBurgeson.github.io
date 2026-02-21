@@ -14,6 +14,6 @@ This Blazor WASM client app allows the user to see the binary and hex representa
 
 [los-pollos-locos](https://los-pollos-locos-deploy.vercel.app/) (repo at [https://github.com/williamBurgeson/los-pollos-locos](https://github.com/williamBurgeson/los-pollos-locos))
 
-A sample fictional site for a fried chicken takeaway by the name of Los Pollos Locos. Built using nextjs, with server rendered components and client components, and fully responsive down to screen widths below 400px. Supports translation between English, French and Dutch (but sadly not Spanish at this time, however requests can be entertained. Watch out for those Mad Chickens!
+A sample fictional site for a fried chicken takeaway by the name of Los Pollos Locos. Built using nextjs, with server rendered components and client components, and fully responsive down to screen widths below 400px. Supports translation between English, French and Dutch (but sadly not Spanish at this time, however requests can be entertained). Watch out for those Mad Chickens!
 
 More exciting demo sites/apps coming soon...
